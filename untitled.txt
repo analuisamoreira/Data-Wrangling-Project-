@@ -1,0 +1,5 @@
+Sources of the dataset downloaded manually:
+
+https://ember-climate.org/data-catalogue/european-wholesale-electricity-price-data/
+
+https://www.kaggle.com/datasets/sevgisarac/temperature-change/data
